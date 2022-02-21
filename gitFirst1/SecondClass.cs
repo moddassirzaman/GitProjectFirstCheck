@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace gitFirst1
 {
-    internal class CheckPrime
+    internal class SecondClass
     {
-        public void PrintPrime()
-        {
-            Console.WriteLine("prime sqnumbers");
-        }
+        public string Name { get; set; }    
     }
 }
